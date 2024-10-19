@@ -11,3 +11,9 @@ Windows Features: Install IIS, .NET Framework, and other essential Windows compo
 Software Installation: Automatically install popular applications like Chrome, VS Code, etc., using Chocolatey.
 Windows Update Control: Disable automatic Windows updates.
 Cleanup and Restart: Clean temp files and restart machines to finalize the setup.
+
+## Contributors
+- [JordanBuckleyGit](https://github.com/JordanBuckleyGit)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
